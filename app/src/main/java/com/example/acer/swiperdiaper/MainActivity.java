@@ -27,7 +27,7 @@ GestureDetector.OnDoubleTapListener{
     }
 
 
-    //////////////// Begin Gestures //////////////
+    //////////////// Begin Gestures comment //////////////
     @Override
     public boolean onSingleTapConfirmed(MotionEvent e) {
         buckysMessage.setText("onSingleTapConfirmed");
